@@ -14,44 +14,29 @@ Website: https://www.thiagocamargocodes.com/
 <ul>
   <li>🧔🏽 I have 29 years old, from Iguape - SP / Brazil</li>
   <li><g-emoji class="g-emoji" alias="heart" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> I love studying, spending the day with family and friends and of course a lot of code</li>
-  <li>🌱 I currently work as a front-end freelancer at Beokay software house (https://beokay.io)</li>
+  <li>🌱 Currently work as a front-end freelancer at Beokay software house (https://beokay.io)</li>
   <li>👯 Looking for new jobs and project as a front-end developer</li>
   </li>
 </ul>
 
 #### Technologies
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png"><img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/html5.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/html5.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png"><img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/css3.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/css3.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png"><img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/javascript.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/javascript.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/typescript.png"><img align="left" alt="Typescript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/typescript.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="Typescript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/typescript.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png"><img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react-native.png"><img align="left" alt="React-Native" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react-native.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="React-Native" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react-native.png" style="max-width:100%;"></a></p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/redux.png"><img align="left" alt="Redux" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/redux.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png"><img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/git.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/git.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>
-
-<!--
-**JeanVictorMachado/JeanVictorMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><a target="_blank" rel="noopener noreferrer" href="https://www.thiagocamargocodes.com/"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>
