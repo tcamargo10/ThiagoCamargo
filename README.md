@@ -6,13 +6,13 @@ Resume: https://www.thiagocamargocodes.com/
 
 ### We are welcome to my GitHub
 
-<p style="margin-bottom:1px,solid,black">+5 years of experience in IT Support, where I worked in high availability environments, supporting more than 5,000 employees and a park of more than 2,000 computers. I worked as a technical leader and as a team coordinator, taking care of the recruitment of the team, attendance, metrics, reports, inventory, troubleshootings, among others.
-+1 years of software developer in Stack React, working in several web and mobile projects with the technologies:</p>
+<p style="margin-bottom:1px,solid,black">Strong experience with front-end developer in Stack React.
++5 years of experience in IT Support, where I worked in high availability environments, supporting more than 5,000 employees and a park of more than 2,000 computers. I worked as a technical leader and as a team coordinator, taking care of the recruitment of the team, attendance, metrics, reports, inventory, troubleshootings, among others. Working in several web projects with the technologies:</p>
 
 #### About
 
 <ul>
-  <li>🧔🏽 I have 29 years old, from Iguape - SP / Brazil</li>
+  <li>🧔🏽 I have 31 years old, from Iguape - SP / Brazil</li>
   <li><g-emoji class="g-emoji" alias="heart" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> I love studying, spending the day with family and friends and of course a lot of code</li>
   <li>🌱 Currently work as a front-end freelancer at Traders Club (https://tc.com.br)</li>
   <li>👯 Looking for new jobs and project as a front-end developer</li>
