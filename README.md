@@ -14,7 +14,7 @@ Resume: https://www.thiagocamargocodes.com/
 <ul>
   <li>🧔🏽 I have 31 years old, from Iguape - SP / Brazil</li>
   <li><g-emoji class="g-emoji" alias="heart" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> I love studying, spending the day with family and friends and of course a lot of code</li>
-  <li>🌱 Currently work as a front-end freelancer at Traders Club (https://tc.com.br)</li>
+  <li>🌱 Currently work as a front-end freelancer at GamersBank (https://gamersbank.com.br)</li>
   <li>👯 Looking for new jobs and project as a front-end developer</li>
   </li>
 </ul>
